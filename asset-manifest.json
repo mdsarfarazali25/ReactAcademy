@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactAcademy/static/css/main.40a989b0.css",
+    "main.js": "/ReactAcademy/static/js/main.306a4cbb.js",
+    "static/js/453.290d0904.chunk.js": "/ReactAcademy/static/js/453.290d0904.chunk.js",
+    "static/media/s1.png": "/ReactAcademy/static/media/s1.c1412b65336806b9b689.png",
+    "static/media/s3.png": "/ReactAcademy/static/media/s3.5fd644cee935ed5ffdb2.png",
+    "static/media/s2.png": "/ReactAcademy/static/media/s2.0b405729456122fe55c7.png",
+    "static/media/python1.jpg": "/ReactAcademy/static/media/python1.a3aeb422c2eaf603a28d.jpg",
+    "static/media/full-stack-dev-min.jpg": "/ReactAcademy/static/media/full-stack-dev-min.8fa69408bcfec4ddbd80.jpg",
+    "static/media/jfc.jpg": "/ReactAcademy/static/media/jfc.e9fd7f7434d9d698b72c.jpg",
+    "static/media/ui.webp": "/ReactAcademy/static/media/ui.94da580a5e4c906e494b.webp",
+    "static/media/reactjs.webp": "/ReactAcademy/static/media/reactjs.e56f212d476abcaefb11.webp",
+    "index.html": "/ReactAcademy/index.html",
+    "main.40a989b0.css.map": "/ReactAcademy/static/css/main.40a989b0.css.map",
+    "main.306a4cbb.js.map": "/ReactAcademy/static/js/main.306a4cbb.js.map",
+    "453.290d0904.chunk.js.map": "/ReactAcademy/static/js/453.290d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a989b0.css",
+    "static/js/main.306a4cbb.js"
+  ]
+}
