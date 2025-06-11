@@ -1,0 +1,93 @@
+{
+  "newsupdate": [
+    {
+      "id": "1",
+      "title": "New Project Launch",
+      "date": "2023-10-01",
+      "content": "We are excited to announce the launch of our new project next month."
+    },
+    {
+      "id": "2",
+      "title": "Team Building Event",
+      "date": "2023-10-15",
+      "content": "Join us for a team building event on October 20th."
+    },
+    {
+      "id": "3",
+      "title": "Holiday Schedule ....",
+      "date": "2023-11-01",
+      "content": "Please check the holiday schedule for November and December "
+    },
+    {
+      "id": "4",
+      "title": "New Office Opening",
+      "date": "2023-11-15",
+      "content": "We are opening a new office in downtown next month."
+    },
+    {
+      "id": "5",
+      "title": "Employee of the Month",
+      "date": "2023-11-30",
+      "content": "Congratulations to John Doe for being the Employee of the Month!"
+    },
+    {
+      "id": "6",
+      "title": "Health and Wellness Program",
+      "date": "2023-12-01",
+      "content": "We are launching a new health and wellness program for all employees."
+    },
+    {
+      "id": "7",
+      "title": "Year-End Party",
+      "date": "2023-12-15",
+      "content": "Join us for our year-end party on December 20th."
+    },
+    {
+      "id": "8",
+      "title": "New Year Greetings",
+      "date": "2010-01-12",
+      "content": "Happy New Year! Wishing everyone a prosperous year ahead. goodbay"
+    },
+    {
+      "id": "9",
+      "title": "Somw Time ",
+      "date": "3333-03-31",
+      "content": "all is well"
+    },
+    {
+      "id": "10",
+      "title": "Go to school",
+      "date": "3300-12-23",
+      "content": "just kiddding"
+    },
+    {
+      "id": "11",
+      "title": "dummy",
+      "date": "2025-06-11",
+      "content": "sample"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "Development",
+      "salary": 60000
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "position": "Project Manager",
+      "department": "Management",
+      "salary": 80000
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "position": "UX Designer",
+      "department": "Design",
+      "salary": 70000
+    }
+  ]
+}
