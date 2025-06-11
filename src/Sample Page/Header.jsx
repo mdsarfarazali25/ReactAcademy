@@ -29,7 +29,7 @@ function Header() {
               >
                 <ul className="navbar-nav">
                   <li className="nav-item">
-                    <NavLink className="nav-link" aria-current="page" to="/ReactAcademy">
+                    <NavLink className="nav-link" aria-current="page" to="/mdsarfarazali25.github.io/ReactAcademy/">
                       Home
                     </NavLink>
                   </li>
