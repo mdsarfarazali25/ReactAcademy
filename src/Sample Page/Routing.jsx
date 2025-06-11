@@ -17,7 +17,7 @@ const Routing = () => {
   return (
     <>
       <Routes>
-        <Route path="/mdsarfarazali25.github.io/ReactAcademy/" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />
         <Route path="/Gallery" element={<Gallery />} />
         <Route path="/ContactUs" element={<ContactUs />} />
